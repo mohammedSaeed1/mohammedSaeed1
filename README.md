@@ -1,18 +1,14 @@
 <div align = "center">
 
-<h2 align="center">Hello!👋🏻  I'm Mohamed Saeed</h2>
+<h1 align="center">Hello!👋🏻  I'm Mohamed Saeed</h1>
 
 ###
 
-<p align="center">A passionate Front-End developer React / Next.js .</p>
+<h2 align="center">A passionate Front-End developer React / Next.js .</h2>
 
 ###
 
 <img  src="./js-dev-badge.svg" width='100%'  />
-
-
-
-
 
 
 <h2 align="center">🚀About me</h2>
