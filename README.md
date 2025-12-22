@@ -8,7 +8,7 @@
 
 ###
 
-<img  src="./js-dev-badge.svg" width='75%'  />
+<img  src="./js-dev-badge.svg" width='100%'  />
 
 
 
