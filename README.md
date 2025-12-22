@@ -21,7 +21,7 @@
 
  <br/>
 
-<h2 align="left">⚙️Used Technologies</h2>
+<h2 align="center">⚙️Used Technologies</h2>
 
 ###
 <br/>
