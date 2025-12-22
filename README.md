@@ -9,8 +9,7 @@
 ###
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <h2 align="left">🚀About me</h2>
@@ -24,6 +23,8 @@
 <h2 align="left">⚙️Used Technologies</h2>
 
 ###
+<br/>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -54,6 +55,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
+
+<br/>
+
 
 ###
 
