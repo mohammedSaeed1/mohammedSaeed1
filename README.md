@@ -1,14 +1,14 @@
 
 
-<h2 align="left">👋🏻Hello!</h2>
+<h2 align="center">👋🏻Hello!</h2>
 
 ###
 
-<h3 align="left">My name is Mohamed Saeed and I'm a Front-End developer using (React / Next.js) .</h3>
+<p align="center">A passionate Front-End developer React / Next.js .</p>
 
 ###
 
-<img  src="./js-dev-badge.svg"  />
+<img  src="./js-dev-badge.svg" width='300'  />
 
 
 
