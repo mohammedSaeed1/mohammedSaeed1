@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">⭐ A passionate Front-End developer React / Next.js .</h2>
+<h2 align="center">⭐ A passionate Full Stack Developer (MERN Stack)</h2>
 
 ###
 
