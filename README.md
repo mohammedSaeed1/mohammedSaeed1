@@ -15,7 +15,10 @@
 
 ###
 
-<h3 align="center">I'm a Frontend Developer specializing in React.js and Next.js with proven ability to build scalable, user-centric web applications. Experienced in state management (Redux, Context API),RESTful API integration, and performance optimization. Strong focus on clean code architecture,responsive design, and delivering production-ready solutions in Agile environments.</h3>
+<h3 align="center">Full Stack Developer with 2+ years of experience building responsive, production-ready web applications using
+React.js, Next.js, TypeScript, and modern JavaScript. Experienced in frontend development with hands-on
+experience building backend applications using Node.js, Express.js, RESTful APIs, and SQL/NoSQL databases.
+Skilled at building reusable components, writing clean, maintainable code, and collaborating in Agile teams.</h3>
 
 ###
 
