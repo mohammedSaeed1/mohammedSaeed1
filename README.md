@@ -15,10 +15,7 @@
 
 ###
 
-<h3 align="center">Full Stack Developer with 2+ years of experience building responsive, production-ready web applications using
-React.js, Next.js, TypeScript, and modern JavaScript. Experienced in frontend development with hands-on
-experience building backend applications using Node.js, Express.js, RESTful APIs, and SQL/NoSQL databases.
-Skilled at building reusable components, writing clean, maintainable code, and collaborating in Agile teams.</h3>
+<h3 align="center">   </h3>
 
 ###
 
